@@ -1,7 +1,3 @@
-//                        ITCS 6114/8114: Algorithms and Data Structures
-// 					      Programming Project 2: Shortest Paths in a Network
-// 					            Md Rajib, mrajib@uncc.edu
-
 #include <fstream> //For file manipulation
 #include <sstream> //for user query segmentation
 #include "graph.h"
